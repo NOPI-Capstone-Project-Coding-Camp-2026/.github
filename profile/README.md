@@ -14,8 +14,7 @@
 ## 🗂️ Our Repositories
 This project is developed using a *Polyrepo* architecture to separate each service domain effectively:
 
-* 🌐 **[nopi-frontend](https://github.com/NOPI-Capstone-Project-Coding-Camp-2026/nopi-frontend)** — User Interface (Web App)
-* ⚙️ **[nopi-backend](https://github.com/NOPI-Capstone-Project-Coding-Camp-2026/nopi-backend)** — REST API, Authentication, and Database Management
+* 🌐 **[nopi-fullstack](https://github.com/NOPI-Capstone-Project-Coding-Camp-2026/nopi-fullstack)** — User Interface (Web App), REST API, Authentication, and Database Management
 * 🧠 **[nopi-ai-api](https://github.com/NOPI-Capstone-Project-Coding-Camp-2026/nopi-ai-api)** — FastAPI Endpoints for CNN Inference & OCR Text Extraction
 * 📊 **[nopi-data-science](https://github.com/NOPI-Capstone-Project-Coding-Camp-2026/nopi-data-science)** — Data Wrangling Scripts, Business Logic, and Streamlit Dashboard
 
