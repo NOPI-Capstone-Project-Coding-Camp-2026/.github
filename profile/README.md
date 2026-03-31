@@ -38,7 +38,7 @@ This project is developed using a *Polyrepo* architecture to separate each servi
 | :--- | :--- | :--- |
 | **Nadya Putri Nur Aletta** | CACC009D6X0878 | AI Engineer |
 | **Fatiyah Hanna Lathifah** | CACC009D6X2186 | AI Engineer |
-| ** Daniswara Rizky Ramadhan** | CFCC009D6Y1543 | Full-Stack Web Developer |
+| **Daniswara Rizky Ramadhan** | CFCC009D6Y1543 | Full-Stack Web Developer |
 | **Dewi Ainun Amaliah** | CFCC009D6X2334 | Full-Stack Web Developer |
 | **Jihan Timmy Nisrina** | CDCC009D6X2470 | Data Scientist |
 | **Najwa Namira Zaneti** | CDCC009D6X1602 | Data Scientist |
